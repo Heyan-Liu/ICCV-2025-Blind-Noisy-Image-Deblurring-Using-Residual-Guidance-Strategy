@@ -32,7 +32,7 @@ Our proposed **Residual Guidance Strategy (RGS)** leverages adjacent coarser-sca
 We evaluate our method against state-of-the-art (SOTA) methods under severe noise conditions.
 
 <p align="center">
-  <img src="results/high noise.PNG" alt="Experimental Comparison" width="1000">
+  <img src="results/compare.PNG" alt="Experimental Comparison" width="1000">
 </p>
 
 > *Figure 2: Qualitative comparison. Our method consistently outperforms numerous SOTA methods by effectively suppressing strong noise while recovering sharp details.*
