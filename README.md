@@ -50,7 +50,8 @@ If you find our work or code useful, please consider citing:
 ```latex
 @inproceedings{liu2025blind,
   title={Blind Noisy Image Deblurring Using Residual Guidance Strategy},
-  author={Liu, Heyan and Liu, Jun and others},
-  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
+  author={Liu, Heyan and Sun, Jianing and Liu, Jun and Zhao, Xi-Le and Wu, Tingting and Zeng, Tieyong},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={11016--11025},
   year={2025}
 }
