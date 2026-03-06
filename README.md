@@ -21,7 +21,7 @@ To address this, we propose the **Residual Guidance Strategy (RGS)** to suppress
 Our proposed **Residual Guidance Strategy (RGS)** leverages adjacent coarser-scale information to robustly guide blur kernel estimation.
 
 <p align="center">
-  <img src="results/flowchart.png" alt="Model Architecture" width="800">
+  <img src="results/Logic chart-ICCV.pdf" alt="Model Architecture" width="800">
 </p>
 
 > *Figure 1: The overall pipeline of our Residual Guidance Strategy for blind noisy image deblurring.*
@@ -32,7 +32,7 @@ Our proposed **Residual Guidance Strategy (RGS)** leverages adjacent coarser-sca
 We evaluate our method against state-of-the-art (SOTA) methods under severe noise conditions.
 
 <p align="center">
-  <img src="results/comparison_result.png" alt="Experimental Comparison" width="1000">
+  <img src="results/high noise.PNG" alt="Experimental Comparison" width="1000">
 </p>
 
 > *Figure 2: Qualitative comparison. Our method consistently outperforms numerous SOTA methods by effectively suppressing strong noise while recovering sharp details.*
