@@ -3,6 +3,7 @@
 
 Official implementation of the paper **"Blind Noisy Image Deblurring Using Residual Guidance Strategy"**, accepted by **ICCV 2025**.
 
+[[Paper]](https://openaccess.thecvf.com/content/ICCV2025/papers/Liu_Blind_Noisy_Image_Deblurring_Using_Residual_Guidance_Strategy_ICCV_2025_paper.pdf)
 ## 🚀 Introduction
 Blind deblurring is a challenging ill-posed inverse problem. While existing methods often struggle under **high levels of noise**, which compromises kernel estimation and restoration quality. 
 
