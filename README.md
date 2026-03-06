@@ -21,7 +21,7 @@ To address this, we propose the **Residual Guidance Strategy (RGS)** to suppress
 Our proposed **Residual Guidance Strategy (RGS)** leverages adjacent coarser-scale information to robustly guide blur kernel estimation.
 
 <p align="center">
-  <img src="results/Logic chart-ICCV.pdf" alt="Model Architecture" width="800">
+  <img src="results/flowchart.PNG" alt="Model Architecture" width="800">
 </p>
 
 > *Figure 1: The overall pipeline of our Residual Guidance Strategy for blind noisy image deblurring.*
